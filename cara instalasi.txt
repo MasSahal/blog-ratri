@@ -1,0 +1,13 @@
+Cara instalasi
+
+1. extrak file dan taro di dalam folder htdocs
+2. buka di browser http://localhost/blog-ratri/
+3. enjoy :v
+
+
+*klo error
+coba ini
+1. ganti nama database jadi blog_ratri
+atau bikin baru database blog_ratri trus 
+import database dan pilih file sql yg di 
+folder ekstrak tadi.
